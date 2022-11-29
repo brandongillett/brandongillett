@@ -27,6 +27,6 @@ Hello, I am currently a 4th year computer science student at California State Un
 #
 
 ### Noteable Repositories
-<a href="https://github.com/brandongillett/EddCallBot"><img src="https://gh-card.dev/repos/brandongillett/EddCallBot.svg"></a>
+<div class="repo-card" data-repo="brandongillett/EddCallBot" data-theme="dark-theme"></div>
 
 #
