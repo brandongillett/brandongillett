@@ -29,6 +29,6 @@ Hello, I am currently a 4th year computer science student at California State Un
 ### Noteable Repositories
 <a href="https://github.com/brandongillett/Space-Invaders-Game"><img align="left" width="350px" style="padding-top:10px;" src="https://gh-card.dev/repos/brandongillett/Space-Invaders-Game.svg"></a>
 <a href="https://github.com/brandongillett/EddCallBot"><img align="left" width="350px" style="padding-top:10px;" src="https://gh-card.dev/repos/brandongillett/EddCallBot.svg"></a>
-<a href="https://github.com/brandongillett/2D-Graphic-Modeler"><img align="left" width="350px" style="padding-top:10px;" src="https://gh-card.dev/repos/brandongillett/2D-Graphic-Modeler.svg"></a>
+<br />
 
 #
