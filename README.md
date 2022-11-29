@@ -26,10 +26,10 @@ Hello, I am currently a 4th year computer science student at California State Un
 
 #
 
-### Noteable Projects
+### 📊 Stats
 
-<a href="https://github.com/brandongillett/Space-Invaders-Game"><img align="center" alt="SpaceInvaders" width="300px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/Space-Invaders-Game.svg" /></a>
-<a href="https://github.com/brandongillett/EddCallBot"><img align="center" alt="EddCallBot" width="300px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/EddCallBot.svg" /></a>
-<br />
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandongillett&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=gruvbox&border_radius=4.5) -->
 
 #
