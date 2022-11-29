@@ -31,6 +31,7 @@ Hello, I am currently a 4th year computer science student at California State Un
 <a href="https://github.com/brandongillett/EddCallBot"><img align="left" width="350px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/EddCallBot.svg"></a>
 <br />
 
-
 #
+
+
 ### Languages and Tools
