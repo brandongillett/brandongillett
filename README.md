@@ -22,14 +22,14 @@ Hello, I am currently a 4th year computer science student at California State Un
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br>
+<br />
 
 #
 
 ### Noteable Repositories
 <a href="https://github.com/brandongillett/Space-Invaders-Game"><img align="left" alt="SpaceInvaders" width="350px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/Space-Invaders-Game.svg"></a>
 <a href="https://github.com/brandongillett/EddCallBot"><img align="left" alt="EddCallBot" width="350px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/EddCallBot.svg"></a>
-<br>
+<br />
 
 #
 
