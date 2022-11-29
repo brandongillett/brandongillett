@@ -1,6 +1,6 @@
 # Brandon Gillett
 
-**`Backend Software Developer`**
+**`Software Developer Focused on Backend`**
 
 ---
 
