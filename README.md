@@ -27,6 +27,6 @@ Hello, I am currently a 4th year computer science student at California State Un
 #
 
 ### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=tokyonight_duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<center>[![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=tokyonight_duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)</center>
 
 #
