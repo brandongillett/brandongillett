@@ -31,6 +31,4 @@ Hello, I am currently a 4th year computer science student at California State Un
 
 <object type="image/svg+xml" data="https://gh-card.dev/repos/brandongillett/EddCallBot.svg?fullname=&link_target=_top"></object>
 
-<br />
-
 #
