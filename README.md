@@ -7,7 +7,7 @@ Hello, I am currently a 4th year computer science student at California State Un
 ---
 
 ### Languages and Tools
-
+<center>
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" /> 
 <img align="left" alt="QT" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/qt/qt-original.svg" /> 
@@ -22,11 +22,12 @@ Hello, I am currently a 4th year computer science student at California State Un
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</center>
 <br />
 
 #
 
 ### Github Stats
-<center>[![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=tokyonight_duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)</center>
+[![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=tokyonight_duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 #
