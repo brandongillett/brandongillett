@@ -30,7 +30,7 @@ Hello, I am currently a 4th year computer science student at California State Un
 
 <a href="https://github.com/brandongillett/Space-Invaders-Game"><img align="left" alt="SpaceInvaders" width="300px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/Space-Invaders-Game.svg" /></a>
 <a href="https://github.com/brandongillett/EddCallBot"><img align="left" alt="EddCallBot" width="300px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/EddCallBot.svg" /></a>
-<a href="https://github.com/brandongillett/2D-Graphic-Modeler"><img align="left" alt="2DGraphicsModeler" width="300px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/2D-Graphic-Modeler.svg"></a>
+<a href="https://github.com/brandongillett/2D-Graphic-Modeler"><img align="center" alt="2DGraphicsModeler" width="300px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/2D-Graphic-Modeler.svg"></a>
 <br />
 
 #
