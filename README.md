@@ -28,7 +28,8 @@ Hello, I am currently a 4th year computer science student at California State Un
 
 ### Github Stats
 
-![brandongillett GitHub stats](https://github-readme-stats.vercel.app/api?username=brandongillett&show_icons=true&theme=tokyonight&count_private=true)
+![brandongillett GitHub stats](https://github-readme-stats.vercel.app/api?username=brandongillett&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs)
+)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=gruvbox&border_radius=4.5) -->
 
