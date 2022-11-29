@@ -26,8 +26,6 @@ Hello, I am currently a 4th year computer science student at California State Un
 
 #
 
----
-
 ### Noteable Repositories
 
 <a href="https://github.com/brandongillett/Space-Invaders-Game"><img align="left" alt="SpaceInvaders" width="350px" style="padding-right:10px;" src="https://gh-card.dev/repos/brandongillett/Space-Invaders-Game.svg" /></a>
@@ -36,7 +34,3 @@ Hello, I am currently a 4th year computer science student at California State Un
 <br />
 
 #
-
----
-
-### Languages and Tools
