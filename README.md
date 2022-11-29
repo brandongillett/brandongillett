@@ -27,8 +27,9 @@ Hello, I am currently a 4th year computer science student at California State Un
 #
 
 ### Noteable Repositories
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+<script src="https://tarptaeya.github.io/repo-card/repo-card.js">
 
-<div class="repo-card" data-repo="brandongillett/EddCallBot" data-theme="dark-theme"></div>
+  <div class="repo-card" data-repo="brandongillett/EddCallBot" data-theme="dark-theme"></div>
+</script>
 
 #
