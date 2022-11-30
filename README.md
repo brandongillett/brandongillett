@@ -1,6 +1,6 @@
 # Brandon Gillett
 
-**`Software Developer (Backend/Cyber Security)`**  
+**`Software Engineer (Backend Developer/Cyber Security)`**  
 Compilation my most noteworthy projects inside and outside the lecture hall.  
 Currently advancing my skills in Cyber Security, and databases.  
 Changing the world one segmentation fault at a time.  
