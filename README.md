@@ -1,4 +1,4 @@
-Brandon Gillett  
+## Brandon Gillett  
 ### `Software Engineer (Backend Developer/Cyber Security)`
 
 :black_circle:Compilation my most noteworthy projects inside and outside the lecture hall.  
