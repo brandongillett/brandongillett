@@ -1,4 +1,4 @@
-# <p align="center">
+<p align="center">
     <h1 align="center">✩&emsp;Brandon Gillett&emsp;✩</h1>
 </p>
 
