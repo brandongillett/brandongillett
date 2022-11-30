@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">✩&emsp;Brandon Gillett&emsp;✩</h1>
+    <h1 align="center">&emsp;Brandon Gillett&emsp;</h1>
 </p>
 
 **`Software Engineer (Backend Developer/Cyber Security)`**  
