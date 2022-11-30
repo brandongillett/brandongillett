@@ -1,7 +1,4 @@
-<p align="center">
-    <h1 align="center">&emsp;Brandon Gillett&emsp;</h1>
-</p>
-
+#Brandon Gillett  
 **`Software Engineer (Backend Developer/Cyber Security)`**  
 :black_circle:Compilation my most noteworthy projects inside and outside the lecture hall.  
 :black_circle:Currently advancing my skills in Cyber Security, and databases.  
