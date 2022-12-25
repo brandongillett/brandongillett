@@ -1,6 +1,6 @@
 ### Brandon Gillett  
 `Software Engineer (Backend Developer/Cyber Security)`  
-:black_circle:Compilation my most noteworthy projects.  
+:black_circle:Compilation of my most noteworthy projects.  
 :black_circle:Currently advancing my skills in cyber security and operating systems.  
 :black_circle:Changing the world one segmentation fault at a time.  
 
