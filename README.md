@@ -25,9 +25,9 @@
 
 #
 
-### Github Stats
+### LeetCode Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=brandongillett&theme=tokyonight_duo&hide_border=true&border_radius=5)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/brandongillett?theme=dark&font=Noto%20Sans%20Tai%20Viet)
 #
 <details>
 <summary><h3>Introducing me</h3></summary>
