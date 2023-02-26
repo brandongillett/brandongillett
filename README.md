@@ -1,4 +1,4 @@
-### Brandon Gillett  
+### <h1>Brandon Gillett</h1>  
 `Software Engineer (Backend Developer/Cyber Security)`  
 :black_circle:Compilation of my most noteworthy projects.  
 :black_circle:Currently advancing my skills in cyber security and operating systems.  
