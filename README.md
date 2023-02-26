@@ -1,6 +1,5 @@
 ### <h1 align="center">Brandon Gillett</h1> 
 <br>
-<br>
 <h1 align="center">Software Engineer (Backend Developer/Cyber Security)</h1>
 <p align="center">
 :black_circle:Compilation of my most noteworthy projects.
@@ -9,14 +8,11 @@
 <br>
 :black_circle:Changing the world one segmentation fault at a time.
 <br>
-<br>
 </p>
 
 ---
 
 ### <h1 align="center">Skills</h1>
-
-<br>
 <br>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" />
@@ -34,8 +30,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br>
-<br>
-  
+
 #
 
 ### <h1 align="center">LeetCode Stats</h1>
