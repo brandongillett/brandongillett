@@ -4,11 +4,6 @@
     <li>one</li>
     <li>two</li>
     <li>three</li>
-:black_circle:Compilation of my most noteworthy projects.
-<br>
-:black_circle:Currently advancing my skills in cyber security and operating systems.
-<br>
-:black_circle:Changing the world one segmentation fault at a time.
 <br>
 </ul>
 
