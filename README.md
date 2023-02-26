@@ -2,6 +2,7 @@
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
 <p align="center">
   <ul align="left">
+    <li>Coffee</li>
     ⚫Compilation of my most noteworthy projects.
     <br>
     ⚫Currently advancing my skills in cyber security and operating systems.
