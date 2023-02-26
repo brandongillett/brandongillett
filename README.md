@@ -35,6 +35,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=brandongillett&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
-<details>
-<summary><h2 align="center">Introducing me</h2></summary>
+<details align="center">
+<summary><h2>Introducing me</h2></summary>
 <h4 align="center">I’m a 4th-year computer science major, currently studying at California State University Fullerton. Coding first piqued my interest in the 5th grade when I began computer programming at the age of 10. At this time I taught myself beginner-level languages such as Visual Basic. I was amazed by the possibilities and began searching for ways to use my new skills to make tools for myself (calculators, web browsers, etc). From this point on, I was hooked. My father, being a software engineer, was impressed by my tenacity and encouraged my pursuit of computer science, and proceeded to teach me C#. I am over 12 years into my programming journey and have yet to find a dull moment when in front of a computer.</h4>
