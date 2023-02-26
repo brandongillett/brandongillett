@@ -1,6 +1,6 @@
 ### <h1 align="center">Brandon Gillett</h1>
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
-<ul align="center" list-style-position: inside>
+<ul align="center" list-style-position="inside">
     <li>one</li>
     <li>two</li>
     <li>three</li>
