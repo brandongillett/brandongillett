@@ -1,11 +1,12 @@
 ### <h1 align="center">Brandon Gillett</h1>
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
-<ul align="center" list-style-position="inside">
+<div class="parent">
+  <ul>
     <li>one</li>
     <li>two</li>
     <li>three</li>
-<br>
-</ul>
+  </ul>
+</div>
 
 ---
 
