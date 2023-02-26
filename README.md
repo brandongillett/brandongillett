@@ -1,4 +1,4 @@
-### <h1>Brandon Gillett</h1>  
+### <h1 align="center">Brandon Gillett</h1>  
 `Software Engineer (Backend Developer/Cyber Security)`  
 :black_circle:Compilation of my most noteworthy projects.  
 :black_circle:Currently advancing my skills in cyber security and operating systems.  
@@ -32,7 +32,7 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=brandongillett&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=brandongillett&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=brandongillett&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
 <details>
