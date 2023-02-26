@@ -3,7 +3,7 @@
 <p align="center">
   <ul align="left">
     <li>Coffee</li>
-    ⚫Compilation of my most noteworthy projects.
+                ⚫Compilation of my most noteworthy projects.
     <br>
     ⚫Currently advancing my skills in cyber security and operating systems.
   <br>
