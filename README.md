@@ -1,13 +1,13 @@
 ### <h1 align="center">Brandon Gillett</h1>
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
-<p align="center">
+<ul align="center" list-style-position: inside>
 :black_circle:Compilation of my most noteworthy projects.
 <br>
 :black_circle:Currently advancing my skills in cyber security and operating systems.
 <br>
 :black_circle:Changing the world one segmentation fault at a time.
 <br>
-</p>
+</ul>
 
 ---
 
