@@ -1,4 +1,4 @@
-### <h1 align="center">Brandon Gillett</h1><h3>Software Engineer (Backend Developer/Cyber Security)</h3>
+### <h1 align="center">Brandon Gillett<h3>Software Engineer (Backend Developer/Cyber Security)</h3></h1>
 <br>
 <p align="center">
 :black_circle:Compilation of my most noteworthy projects.
