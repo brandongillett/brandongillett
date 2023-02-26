@@ -1,13 +1,13 @@
 ### <h1 align="center">Brandon Gillett</h1>
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
 <p align="center">
-  <ul align="left">
+  <ul align="left" display="inline-block">
     <li>Coffee</li>
-                ⚫Compilation of my most noteworthy projects.
+⚫Compilation of my most noteworthy projects.
     <br>
-    ⚫Currently advancing my skills in cyber security and operating systems.
+⚫Currently advancing my skills in cyber security and operating systems.
   <br>
-    ⚫Changing the world one segmentation fault at a time.
+⚫Changing the world one segmentation fault at a time.
   <br>
 </p>
   </ul>
