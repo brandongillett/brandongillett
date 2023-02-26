@@ -2,8 +2,11 @@
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
   <ul align="center">
     ⚫Compilation of my most noteworthy projects.
+    <br>
     ⚫Currently advancing my skills in cyber security and operating systems.
+  <br>
     ⚫Changing the world one segmentation fault at a time.
+  <br>
   </ul>
   
 ---
