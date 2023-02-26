@@ -1,6 +1,6 @@
 ### <h1 align="center">Brandon Gillett</h1>
 <h3 align="center">Software Engineer (Backend Developer/Cyber Security)</h3>
-<div class="container" align="center">
+<p align="center">
   <ul align="left">
     ⚫Compilation of my most noteworthy projects.
     <br>
@@ -8,7 +8,7 @@
   <br>
     ⚫Changing the world one segmentation fault at a time.
   <br>
-</div>
+</p>
   </ul>
   
 ---
