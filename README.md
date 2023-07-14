@@ -7,6 +7,8 @@
   <br>
 ⚫Changing the world one segmentation fault at a time.
   <br>
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your_username)
+
   </p>
 
 <h1 align="center">Skills</h1>
