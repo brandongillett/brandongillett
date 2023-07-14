@@ -35,9 +35,11 @@
 #
 
 <h1 align="center">GitHub Stats</h1>
+<div align="center">
+  <h1>GitHub Stats</h1>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false" alt="GitHub Stats">
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandongillett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #
 
