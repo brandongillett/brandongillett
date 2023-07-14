@@ -36,8 +36,8 @@
 
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
-![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false)
-![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=brandongillett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false)  
+![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=brandongillett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 </p>
 
 #
