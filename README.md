@@ -7,8 +7,6 @@
   <br>
 ⚫Changing the world one segmentation fault at a time.
   <br>
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/your_username)
-
   </p>
 
 <h1 align="center">Skills</h1>
@@ -33,6 +31,7 @@
 </p>
 
 <h1 align="center">GitHub Stats</h1>
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/brandongillett)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false" alt="GitHub Stats">
 </div>
