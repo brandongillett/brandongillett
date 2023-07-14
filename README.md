@@ -36,10 +36,8 @@
 
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
-  <h1>GitHub Stats</h1>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false" alt="GitHub Stats">
 </div>
-
 
 #
 
