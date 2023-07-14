@@ -8,8 +8,6 @@
 ⚫Changing the world one segmentation fault at a time.
   <br>
   </p>
-  
-#
 
 <h1 align="center">Skills</h1>
 <p align="center">
@@ -32,14 +30,10 @@
   <img align="center" title="GitHub" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
-#
-
 <h1 align="center">GitHub Stats</h1>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false" alt="GitHub Stats">
 </div>
-
-#
 
 <h1 align="center">Introducing Me</h1>
 <div align="center">
