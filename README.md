@@ -7,10 +7,15 @@
   <br>
 ⚫Changing the world one segmentation fault at a time.
   <br>
-
-  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/brandongillett) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brandongillett) 
   </p>
+<p align="center">
+  <a href="https://leetcode.com/brandongillett">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://linkedin.com/in/brandongillett">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 <h1 align="center">Skills</h1>
 <p align="center">
