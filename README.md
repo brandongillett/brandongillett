@@ -36,11 +36,10 @@
 
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
-![](https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandongillett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 </p>
 
-<h1 align="center">Introducing me</h1>
-<p align="center">
+
+<details>
+ <summary><h3>Introducing me</h3></summary>
 I’m a 4th-year computer science major, currently studying at California State University Fullerton. Coding first piqued my interest in the 5th grade when I began computer programming at the age of 10. At this time I taught myself beginner-level languages such as Visual Basic. I was amazed by the possibilities and began searching for ways to use my new skills to make tools for myself (calculators, web browsers, etc). From this point on, I was hooked. My father, being a software engineer, was impressed by my tenacity and encouraged my pursuit of computer science, and proceeded to teach me C#. I am over 12 years into my programming journey and have yet to find a dull moment when in front of a computer.
-</p>
