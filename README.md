@@ -36,9 +36,11 @@
 
 <h1 align="center">GitHub Stats</h1>
 <p align="center">
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GithubStats](https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false)
+![GithubStats](https://github-readme-stats.vercel.app/api/top-langs/?username=brandongillett&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
+#
 
 <details>
  <summary><h3>Introducing me</h3></summary>
