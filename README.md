@@ -7,6 +7,8 @@
   <br>
 ⚫Changing the world one segmentation fault at a time.
   <br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/brandongillett) 
   </p>
 
 <h1 align="center">Skills</h1>
@@ -31,12 +33,12 @@
 </p>
 
 <h1 align="center">GitHub Stats</h1>
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/brandongillett)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandongillett&theme=dark&hide_border=false" alt="GitHub Stats">
 </div>
 
 <h1 align="center">Introducing Me</h1>
 <div align="center">
+  
         I’m a 4th-year computer science major, currently studying at California State University Fullerton. Coding first piqued my interest in the 5th grade when I began computer programming at the age of 10. At this time I taught myself beginner-level languages such as Visual Basic. I was amazed by the possibilities and began searching for ways to use my new skills to make tools for myself (calculators, web browsers, etc). From this point on, I was hooked. My father, being a software engineer, was impressed by my tenacity and encouraged my pursuit of computer science, and proceeded to teach me C#. I am over 12 years into my programming journey and have yet to find a dull moment when in front of a computer.
 </div>
