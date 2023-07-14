@@ -9,11 +9,11 @@
   <br>
   </p>
 <p align="center">
-  <a href="https://leetcode.com/brandongillett">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
   <a href="https://linkedin.com/in/brandongillett">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/brandongillett">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
 
