@@ -3,7 +3,7 @@
   <p align="center">
 ⚫Compilation of my most noteworthy projects.
     <br>
-⚫Currently advancing my skills in cyber security and operating systems.
+⚫Currently advancing my skills in cyber security.
   <br>
 ⚫Changing the world one segmentation fault at a time.
   <br>
